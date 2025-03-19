@@ -1,4 +1,4 @@
-# Power-BI-projects
+# Health Care Power-BI-project
 
 #### This file likely contains data visualizations, reports, and dashboards related to healthcare analytics. It might include datasets, interactive charts, KPIs, and insights on healthcare trends, patient records, disease analysis, or other medical-related data.
 
